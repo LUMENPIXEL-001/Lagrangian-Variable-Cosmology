@@ -3,4 +3,4 @@
 "The lattice may be understood not merely as a pixel of projection, but potentially as a fundamental containment shield for gravitational potential."
 
 License & Citation
-Refer to the Zenodo (DOI: [ https://doi.org/10.5281/zenodo.19641393 ]) for the full theoretical derivation and formal paper.
+Refer to the Zenodo (DOI: [ https://doi.org/10.5281/zenodo.19659213 ]) for the full theoretical derivation and formal paper.
