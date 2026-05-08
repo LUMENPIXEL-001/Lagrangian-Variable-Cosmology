@@ -1,1 +1,1 @@
-“This work marks the transition from the ARC framework to LVC, reflecting the evolution of our cosmological model.”
+"This repository contains a working-paper series on Lagrangian Variable Cosmology, exploring a modified expansion history with luminosity distance modulation. The model is tested against Pantheon+ supernovae and DESI BAO sound horizon measurements, with BIC model selection comparing it to ΛCDM. The framework is reconstructed as a single scalar field cosmology."
